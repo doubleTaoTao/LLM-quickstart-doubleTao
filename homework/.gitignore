@@ -1,0 +1,18 @@
+target/
+models/
+data/
+ 
+#Jupyter Notebook
+.ipynb_checkpoints/
+.out
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+*/models/
